@@ -1,0 +1,24 @@
+
+{
+    "List": [{
+        "id":1,
+        "Name":"xyz",
+        "email":"xyz@a.com",
+        "phonenumber":112456639,
+        "noofadults":2,
+        "noofchildren":1,
+        "checkindate":"2023-01-01",
+        "checkoutdate":"2023-01-01",
+        "selectRoom":"Ac"
+         }, {
+            "id":2,
+            "Name":"zyx",
+            "email":"zyx@a.com",
+            "phonenumber":245663925,
+            "noofadults":3,
+            "noofchildren":4,
+            "checkindate":"2023-01-05",
+            "checkoutdate":"2023-01-08",
+            "selectRoom":"Ac Suit"
+             }]
+}
